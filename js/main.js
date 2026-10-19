@@ -338,7 +338,7 @@
     });
   } else {
     const pending = document.createElement('span'); pending.className = 'contact-pending';
-    pending.textContent = 'КОНТАКТЫ МОЖНО ДОБАВИТЬ В JS/CONTENT.JS';
+    pending.textContent = '+7-777-996-05-62';
     contacts.append(pending);
   }
 })();
